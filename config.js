@@ -24,7 +24,7 @@ var config = {
     desc: {
         turn_on: "试着点一下？",
         play: "来点音乐？",
-        bannar_coming: "缺点氛围呢",
+        bannar_coming: "氛围"，
         balloons_flying: "好像还少点东西呢！",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
